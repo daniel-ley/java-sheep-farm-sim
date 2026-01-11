@@ -1,6 +1,6 @@
 # Sheep Farm Simulator
 
-A cozt farm simulator game to practice Java.
+A cosy farm simulator game to practice Java.
 
 ## Current Features
 - Sheep class with basic attributes (name, colour, age, satiety)
