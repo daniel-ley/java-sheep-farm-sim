@@ -16,3 +16,9 @@ A cozt farm simulator game to practice Java.
 
 ## Running
 Requires Java 21 or higher.
+
+Attribution Code
+"Farm" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
